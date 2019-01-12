@@ -1,0 +1,8 @@
+# Envrionment variables
+.env
+
+# Dependency directories
+node_modules
+
+# Transpiled js
+lib
